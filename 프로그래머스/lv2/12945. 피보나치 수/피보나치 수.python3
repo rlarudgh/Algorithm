@@ -1,0 +1,5 @@
+def solution(n):
+    i,j=0,1
+    for _ in range(n):
+        i,j=(i+j)%1234567,i%1234567
+    return i
