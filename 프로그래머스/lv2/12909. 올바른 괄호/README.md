@@ -1,6 +1,6 @@
 # [level 2] 올바른 괄호 - 12909 
 
-[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12909) 
 
 ### 성능 요약
 
@@ -8,7 +8,7 @@
 
 ### 구분
 
-코딩테스트 연습 > 연습문제
+코딩테스트 연습 > 스택／큐
 
 ### 채점결과
 
