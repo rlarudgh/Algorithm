@@ -1,0 +1,1 @@
+const solution = nums => nums.length / 2 >= [...new Set(nums)].length ? [...new Set(nums)].length : nums.length / 2;
