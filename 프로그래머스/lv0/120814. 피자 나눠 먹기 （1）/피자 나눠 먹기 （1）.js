@@ -1,0 +1,1 @@
+const solution = n => Math.floor((n - 1) / 7) + 1; 
