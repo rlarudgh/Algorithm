@@ -1,0 +1,1 @@
+const solution = array => array.sort((a, b) => a - b).at(array.length / 2);
