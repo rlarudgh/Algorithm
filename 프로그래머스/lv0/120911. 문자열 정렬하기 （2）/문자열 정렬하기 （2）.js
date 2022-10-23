@@ -1,0 +1,1 @@
+const solution = my_string => my_string.split('').map((v) => v.toLowerCase()).sort((a, b) => (a < b ? -1 : a > b ? 1 : 0)).join('');
