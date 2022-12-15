@@ -1,0 +1,1 @@
+const solution = my_string => (my_string.match(/\d+/g) || [0]).reduce((sum, current) => sum * 1 + current * 1, 0)
