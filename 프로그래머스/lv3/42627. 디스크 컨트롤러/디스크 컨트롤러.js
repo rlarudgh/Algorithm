@@ -1,7 +1,6 @@
 const solution = (jobs) => {
   const heapq = [];
   let answer = 0;
-  let time = 0;
   let j = 0;
   const LEN = jobs.length;
   let position = 0;
