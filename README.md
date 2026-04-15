@@ -20,7 +20,7 @@
 
 | 내 프로필 | 사용 언어 |
 | :---: | :---: |
-| [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kimkh05)](https://solved.ac/profile/kimkh05) | **C, C++, JavaScript, Python, Java** 등 |
+| Solved AC:  Gold 3 | **C, C++, JavaScript, Python, Java** 등 |
 
 ---
 
